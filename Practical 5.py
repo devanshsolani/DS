@@ -39,4 +39,4 @@ class search:
 
 
 a = [1,8,3,4,5,9,2,7]
-search(a, 8,'b')
+search(a, 5,'b')
